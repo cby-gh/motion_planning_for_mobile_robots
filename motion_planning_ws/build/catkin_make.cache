@@ -1,0 +1,2 @@
+grid_path_searcher:my_pcl_tutorial:rviz_plugins:waypoint_generator
+-DCATKIN_DEVEL_PREFIX=/home/cby/motion_planning/motion_planning_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cby/motion_planning/motion_planning_ws/install -G Unix Makefiles

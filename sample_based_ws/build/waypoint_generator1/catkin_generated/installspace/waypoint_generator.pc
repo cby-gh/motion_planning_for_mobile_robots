@@ -1,0 +1,8 @@
+prefix=/home/cby/motion_planning/sample_based_ws/install
+
+Name: waypoint_generator
+Description: Description of waypoint_generator
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/cby/motion_planning/sample_based_ws/install/lib 
+Requires: 

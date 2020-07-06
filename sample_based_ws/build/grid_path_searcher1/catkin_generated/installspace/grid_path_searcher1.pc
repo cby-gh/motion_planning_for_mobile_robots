@@ -1,0 +1,8 @@
+prefix=/home/cby/motion_planning/sample_based_ws/install
+
+Name: grid_path_searcher1
+Description: Description of grid_path_searcher1
+Version: 0.0.1
+Cflags: -I/home/cby/motion_planning/sample_based_ws/install/include
+Libs: -L/home/cby/motion_planning/sample_based_ws/install/lib 
+Requires: 

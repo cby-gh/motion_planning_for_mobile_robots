@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/cby/motion_planning/motion_planning_ws/install/setup.sh
